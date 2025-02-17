@@ -1,6 +1,2 @@
-"# DIANS" 
-"# DIANS-proekt" 
-"# DIANS-proekt" 
-"# DIANS-proekt" 
-"# DIANS-proekt" 
-"# DIANS" 
+Дизајн и архитектура на софтвер
+Дополнително домашно
